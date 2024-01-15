@@ -1,0 +1,31 @@
+JwtAuthAspNet7WebAPI/.vs
+JwtAuthAspNet7WebAPI/*.dll
+JwtAuthAspNet7WebAPI/*.pdb
+JwtAuthAspNet7WebAPI/*.cache
+JwtAuthAspNet7WebAPI/bin
+JwtAuthAspNet7WebAPI/*/bin
+JwtAuthAspNet7WebAPI/**/bin
+JwtAuthAspNet7WebAPI/**/debug
+JwtAuthAspNet7WebAPI/**/obj
+JwtAuthAspNet7WebAPI/*/data-mssql
+JwtAuthAspNet7WebAPI/**/data-mssql
+JwtAuthAspNet7WebAPI/*.user
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+React-18-Redux-Authentication-JWT/node_modules
+React-18-Redux-Authentication-JWT/.pnp
+React-18-Redux-Authentication-JWT/.pnp.js
+
+# testing
+React-18-Redux-Authentication-JWT/coverage
+
+# production
+React-18-Redux-Authentication-JWT/build
+
+# misc
+React-18-Redux-Authentication-JWT/.DS_Store
+
+React-18-Redux-Authentication-JWT/npm-debug.log*
+React-18-Redux-Authentication-JWT/yarn-debug.log*
+React-18-Redux-Authentication-JWT/yarn-error.log*
