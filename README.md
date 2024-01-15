@@ -7,6 +7,6 @@ This is a project system that uses the following tech stack:
 3. Identity
 4. SQL Server
 5. Entity Framework Core
-6.JWT Token
+6. JWT Token
 
 
